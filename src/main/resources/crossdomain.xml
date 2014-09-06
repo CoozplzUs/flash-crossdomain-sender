@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- http://www.adobe.com/crossdomain.xml -->
+<cross-domain-policy>
+  <allow-access-from domain="*" to-ports="7778" />
+  <site-control permitted-cross-domain-policies="all"/>
+</cross-domain-policy>
+

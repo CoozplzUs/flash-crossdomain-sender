@@ -1,0 +1,7 @@
+/target/
+*.eml
+*.iml
+*.userlibraries
+.idea/
+.settings/
+.claspath
