@@ -4,7 +4,7 @@
 	<groupId>com.venturebridge</groupId>
 	<artifactId>CrossDomainWorker</artifactId>
 	<version>0.0.1</version>
-	<name>CrossDomainWorker</name>
+	<name>CrossDomainWorker</name> 
 	<packaging>jar</packaging>
 	<description>CrossDomainWorker for embedded flash object.</description>
 	<properties>
